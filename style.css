@@ -18,3 +18,4 @@ a {color:black; text-decoration:none;}
 #support {display:grid; margin-bottom:20px;
           grid-template-columns:1fr repeat(4, 70px) 1fr;
           text-decoration:underline;}
+h1 {color:firebrick}
