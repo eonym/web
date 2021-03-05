@@ -1,0 +1,20 @@
+body {background-color:linen; margin:0;}
+#logo-top {width:150px; display:block; margin:70px auto 30px;}
+#menu {display:grid; margin:auto auto 50px;
+       grid-template-columns:1fr repeat(5, 100px) 1fr;
+       text-align:center; padding:5px;
+       border-top:2px solid #272727;
+       border-bottom:1px solid #272727;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       font-size:12px;}
+a {color:black; text-decoration:none;}
+#para {font-family: 'Nanum Gothic', sans-serif;
+       line-height:1.7; width:500px; margin:30px auto; font-size:13px; text-align:justify;}
+.footer {font-family: 'Nanum Gothic', sans-serif;
+         font-size:11px;
+         text-align:center; line-height:1.9;
+         background-color:#272727; color:white;
+         padding:40px; margin-top:130px;}
+#support {display:grid; margin-bottom:20px;
+          grid-template-columns:1fr repeat(4, 70px) 1fr;
+          text-decoration:underline;}
